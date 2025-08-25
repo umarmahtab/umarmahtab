@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **umarmahtab10@gmail.com**
 
-- ⚡ Fun fact **I think i am Good Crickete !**
+- ⚡ Fun fact **I think i am Good Cricketer !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
