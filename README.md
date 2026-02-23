@@ -1,23 +1,46 @@
-[![](https://visitcount.itsvg.in/api?id=umarmahtab&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20creative%20space&descAlignY=51&descAlign=62)
 
+  ### I'm a passionate Software Developer from India 🌍
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Efficient+Solutions;Passionate+Open+Source+Contributor" alt="Typing SVG" /></a>
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulreaperc&label=Profile%20views&color=0e75b6&style=flat" alt="soulreaperc" /> </p>
+  
+  ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umarmahtab18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umarmahtab) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/umarmahtab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umarmahtab10@gmail.com) 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlmMmx2cWFmZ3AwYjdsajU1dmYyMTBxYjFsdXNvNGhmZDBiY3JuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ibTuzMSI8XW8i3VEv2/giphy.gif" width="400" align="right" alt="Coding Gif">
 
+  ### 🚀 About Me
 
+  - 🔭 I’m currently Pursuing BTech From**SRM UNIVERSITY**
+  - 🌱 I’m currently learning **APP and WEB DEVELOPMENT**
+  - 👯 I’m looking to collaborate on **Open Source Projects**
+  - 💬 Ask me about **Design, Html, Python, C, C++, Java, MongoDB and SQL**
+  - ⚡ Fun fact: **Rule #1: If it works, don't touch it.**
+  
+  <br cleaf="left"/>
+  
+  ### 🛠️ Tech Stack
 
-[![](https://visitcount.itsvg.in/api?id=umarmahtab&icon=0&color=0)](https://visitcount.itsvg.in)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,azure,bash,c,cpp,cs,css,docker,dotnet,express,figma,heroku,html,java,js,mongodb,mysql,nodejs,oracle,postgres,py,react,sqlite,ts&perline=12" alt="My Skills" />
+    </a>
+  </p>
+
+  <br/>
 
  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ### 📈 GitHub Stats
 
-
-
-
-
-
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/SoulReaperc/SoulReaperc/master/github-metrics.svg" alt="Metrics" width="450" />
+  </div>
+  
+  <br/>
+  
+  <div align="center">
+    <img src="https://github-streak-three.vercel.app?user=SoulReaperc&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Streak" />
+  </div>
