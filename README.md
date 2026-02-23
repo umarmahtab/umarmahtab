@@ -26,21 +26,8 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,java,js,mongodb,mysql,nodejs,py,react,sqlite,ts&perline=12" alt="My Skills" />
+      <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,java,js,mongodb,mysql,nodejs,py,react,ts&perline=12" alt="My Skills" />
     </a>
   </p>
 
   <br/>
-
- 
-  ### 📈 GitHub Stats
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/SoulReaperc/SoulReaperc/master/github-metrics.svg" alt="Metrics" width="450" />
-  </div>
-  
-  <br/>
-  
-  <div align="center">
-    <img src="https://github-streak-three.vercel.app?user=SoulReaperc&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Streak" />
-  </div>
