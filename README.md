@@ -17,7 +17,7 @@
   - 🔭 I’m currently Pursuing BTech From**SRM UNIVERSITY**
   - 🌱 I’m currently learning **APP and WEB DEVELOPMENT**
   - 👯 I’m looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **Design, Html, Python, C, C++, Java, MongoDB and SQL**
+  - 💬 Ask me about **Design, Html, CSS, Python, C++, Java, MongoDB and SQL**
   - ⚡ Fun fact: **Rule #1: If it works, don't touch it.**
   
   <br cleaf="left"/>
