@@ -1,131 +1,40 @@
 # Hey, I'm Umar 👋
 
-I'm a B.Tech CSE student who loves building things with code. I'm particularly interested in software development, web applications, and turning ideas into useful products.
+I'm Umar Mahtab, a B.Tech CSE student who builds web apps with JavaScript. Some of my projects start with a small problem I want to solve. Others start with a question I can't shake: *"Wait... can I actually build that?"*
 
-I started with the usual curiosity of wondering how software works, and eventually got hooked on actually building things myself. These days, I'm mostly working with JavaScript and the modern web stack, experimenting with different technologies, and building projects that range from practical applications to completely random ideas that I think would be fun to make.
+**[Explore my portfolio ↗](https://umarmahtab.vercel.app)**
 
-When I'm not coding, you'll probably find me watching cricket, especially Virat Kohli and RCB, playing games, exploring new tech, or thinking about the next thing I can build.
-
----
-
-### 📘 How I'd Define Me... Literally
+## A little about me, in JavaScript
 
 ```javascript
-class Umar extends Developer {
-  constructor() {
-    super();
-
-    this.name = "Umar Mahtab";
-    this.role = "B.Tech CSE Student";
-    this.goal = "Become a great software developer";
-
-    this.interests = [
-      "Software Development",
-      "Web Development",
-      "Open Source",
-      "UI/UX",
-      "Technology"
-    ];
-
-    this.hobbies = [
-      "Cricket",
-      "Gaming",
-      "Building Stuff",
-      "Exploring Tech"
-    ];
-  }
-
-  languages() {
-    return {
-      programming: [
-        "JavaScript",
-        "Python",
-        "C++",
-        "SQL"
-      ],
-      markup: [
-        "HTML",
-        "CSS"
-      ]
-    };
-  }
-
-  techStack() {
-    return {
-      frontend: [
-        "React",
-        "Vite",
-        "Tailwind CSS",
-        "Framer Motion"
-      ],
-      backend: [
-        "Node.js",
-        "Express.js"
-      ],
-      databases: [
-        "MongoDB",
-        "MySQL"
-      ],
-      tools: [
-        "Git",
-        "GitHub",
-        "Vercel",
-        "Netlify"
-      ]
-    };
-  }
-
-  currently() {
-    return {
-      learning: [
-        "Data Structures & Algorithms",
-        "System Design",
-        "Backend Development",
-        "Advanced React"
-      ],
-      building: [
-        "Web Applications",
-        "Developer Tools",
-        "Side Projects"
-      ],
-      watching: [
-        "Cricket",
-        "Virat Kohli",
-        "RCB"
-      ]
-    };
-  }
+class Umar {
+  name = "Umar Mahtab";
+  interests = ["Web development", "Open source", "UI/UX"];
+  currentlyBuilding = ["Web apps", "Developer tools", "Side projects"];
+  currentlyLearning = [
+    "Data structures and algorithms",
+    "System design",
+    "Backend development",
+    "Advanced React"
+  ];
+  offTheClock = ["Watching Virat Kohli bat", "Cheering for RCB", "Gaming"];
 }
 ```
 
----
+## What I like building
 
-### 🚀 Things I Like Building
+I like building full-stack apps that solve everyday problems, utilities that save a few clicks, and games and simulations I can play around with. Cricket finds its way into my code, too. I built [BoundaryClub](https://github.com/umarmahtab/BoundaryClub) to run cricket auctions.
 
-* Full-stack web applications
-* Developer tools and utilities
-* Interactive web experiences
-* Games and simulations
-* Projects that solve small but annoying problems
-* Anything that makes me think, *"Wait... can I actually build that?"*
+## My current playground
 
-### 🛠️ My Current Playground
+| Area | What I use |
+| --- | --- |
+| Languages | JavaScript, Python, C++, SQL |
+| Frontend | HTML, CSS, React, Vite, Tailwind CSS, Framer Motion |
+| Backend | Node.js, Express.js |
+| Databases | MongoDB, MySQL |
+| Tools and hosting | Git, GitHub, Vercel, Netlify |
 
-```text
-Frontend     → React • Vite • Tailwind CSS • Framer Motion
-Backend      → Node.js • Express.js
-Database     → MongoDB • MySQL
-Languages    → JavaScript • Python • C++ • SQL
-Tools        → Git • GitHub • Vercel • Netlify
-```
-
-### 🏏 Outside the Code
-
-```text
-Favorite Sport    → Cricket
-Favorite Player   → Virat Kohli
-IPL Team          → Royal Challengers Bengaluru
-Current Mission   → Become a damn good software engineer
-```
+My goal is simple: become a damn good software engineer.
 
 > Build. Break. Learn. Build again.
