@@ -3,7 +3,7 @@
 I'm Umar Mahtab, a B.Tech CSE student who builds web apps with JavaScript. Some of my projects start with a small problem I want to solve. Others start with a question I can't shake: *"Wait... can I actually build that?"*
 
 <p align="center">
-  <a href="https://umarmahtab.vercel.app">
+  <a href="https://umarmahtab.tech">
     <img src="https://img.shields.io/badge/View%20my%20portfolio-1D4ED8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" width="300" alt="View Umar Mahtab's portfolio">
   </a>
 </p>
