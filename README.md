@@ -4,7 +4,7 @@ I'm Umar Mahtab, a B.Tech CSE student who builds web apps with JavaScript. Some 
 
 <p align="center">
   <a href="https://umarmahtab.tech">
-    <img src="https://img.shields.io/badge/Umar_Mahtab-Portfolio_%E2%86%97-7C3AED?style=for-the-badge&amp;labelColor=18181B" width="300" alt="Open Umar Mahtab's portfolio">
+    <img src="https://img.shields.io/badge/umarmahtab.tech-%E2%86%97-047857?style=for-the-badge&amp;labelColor=052E25" width="300" alt="Visit Umar Mahtab's portfolio at umarmahtab.tech">
   </a>
 </p>
 
